@@ -4,7 +4,7 @@ Atualmente sou analista de Suporte e Servidores WHM, e aspirante a programador F
 
 Voltei a estudar programação há pouco tempo, e com isso revivi meu perfil no Github para subir todos os repositórios dos meus projetos. 
 
-Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em linguagens como C, Java, javascript, etc.
+Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em linguagens como C, Java, javascript, Typescript, etc.
 
 <div align="center">
   <a href="https://github.com/cristofergadens">
