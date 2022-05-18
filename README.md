@@ -11,7 +11,7 @@ Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em ling
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristofergadens&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristofergadens&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <p>Tecnologias que uso diariamente:</p>
+  <p >Tecnologias que uso diariamente:</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,6 +19,8 @@ Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em ling
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg?hl=pt-br)">
+  
 </div>
   
   ##
