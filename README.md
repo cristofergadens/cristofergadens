@@ -24,9 +24,10 @@ Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em ling
  
 <div> 
   <a href="https://instagram.com/cristofer_gadens" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="discordapp.com/users/Gadens#1593" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucasgadens@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://api.whatsapp.com/send?phone=5542999454922&text=Ol%c3%a1%2c+tudo+bem%3f+Vi+seu+perfil+no+github+e+gostaria+de+falar+com+voc%c3%aa."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/cristofer-gadens-026343233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
