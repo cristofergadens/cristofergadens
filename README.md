@@ -19,7 +19,7 @@ Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em ling
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Firebase" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg](https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg?hl=pt-br)">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://firebase.google.com/downloads/brand-guidelines/SVG/logo-logomark.svg?hl=pt-br">
   
 </div>
   
