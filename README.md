@@ -1,10 +1,6 @@
-Opa, bão? Eu me chamo Cristofer Gadens, tenho 24 anos e sou graduado em Ciência da Computação pela Universidade Estadual do Centro-Oeste - Unicentro. 
+Opa, bão? Eu me chamo Cristofer, tenho 24 anos e sou graduado em Ciência da Computação pela Universidade Estadual do Centro-Oeste - Unicentro. 
 
-Atualmente sou analista de Suporte e Servidores WHM, e aspirante a programador Front-End.
-
-Voltei a estudar programação há pouco tempo, e com isso revivi meu perfil no Github para subir todos os repositórios dos meus projetos. 
-
-Atualmente, estou estudando ReactJS e Angular, porém tenho conhecimento em linguagens como C, Java, javascript, Typescript, etc.
+Sou desenvolvedor Front-End, trabalho atualmente com ReactJS e VueJs/Nuxt, porém tenho conhecimento em linguagens e frameworks como C, Angular, Java, javascript, Typescript, etc.
 
 <div align="center">
   <a href="https://github.com/cristofergadens">
